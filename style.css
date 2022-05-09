@@ -29,5 +29,5 @@ body {
 table, th,td {
   border-collapse: collapse;
   border: 3px solid;
-  border-color: yellow;
+  border-color: black;
 }
